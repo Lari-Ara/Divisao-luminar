@@ -1,7 +1,7 @@
  <h1>Projeto de Robótica: Divisão luminar </h1>
     <section>
         <h2>Descrição</h2>
-        <p>Este projeto de robótica, desenvolvido em C++ e Arduino na plataforma Tinkercad, é um sistema educativo que ensina sobre divisibilidade. Ao digitar um número, o sistema verifica sua divisibilidade por 2 e 3. Se for divisível por 3, acende um LED vermelho; por 2, um LED amarelo; e se for divisível por ambos, um LED verde é acionado.</p>
+        <p>Este projeto de robótica, desenvolvido em C++ e Arduino na plataforma Tinkercad, é um sistema educativo que ensina sobre divisibilidade. Ao digitar um número, o sistema verifica sua divisibilidade por 3 e 5. Se for divisível por 3, acende um LED vermelho; por 5, um LED amarelo; e se for divisível por ambos, um LED verde é acionado.</p>
     </section>
     <section>
         <h2>Tecnologia</h2>
