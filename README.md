@@ -5,7 +5,7 @@
     </section>
     <section>
         <h2>Tecnologia</h2>
-        <p>O “Detector de Divisibilidade com LEDs” é um projeto educativo que usa Arduino e C++ no Tinkercad para ensinar divisibilidade com LEDs coloridos, tornando o aprendizado de matemática divertido e interativo.</p>
+        <p>O “Divisão luminar” é um projeto educativo que usa Arduino e C++ no Tinkercad para ensinar divisibilidade com LEDs coloridos, tornando o aprendizado de matemática divertido e interativo.</p>
     </section>
       <h2>Instruções de Execução do Projeto no Tinkercad</h2>
     <ol>
