@@ -1,4 +1,4 @@
-#define ledVermelho 5
+  #define ledVermelho 5
 #define ledAmarelo 4
 #define ledVerde 3
 
@@ -30,9 +30,9 @@ void loop() {
       digitalWrite(ledVermelho, LOW);
   }
   
-  resultado = num % 2;
+  resultado = num % 5;
   if(resultado == 0){ 
-    Serial.println("Numero divisivel por 2");
+    Serial.println("Numero divisivel por 5");
     digitalWrite(ledAmarelo, HIGH);
     digitalWrite(ledVermelho, LOW);
     digitalWrite(ledVerde, LOW);
@@ -41,8 +41,8 @@ void loop() {
   }
   
  
-  if(num % 3 == 0 && num % 2 == 0) {
-    Serial.println("Numero divisivel por 2 e por 3");
+  if(num % 3 == 0 && num % 5 == 0) {
+    Serial.println("Numero divisivel por 3 e por 5");
     digitalWrite(ledVerde, HIGH);
     digitalWrite(ledAmarelo, LOW);
     digitalWrite(ledVermelho, LOW);
